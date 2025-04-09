@@ -1,0 +1,7 @@
+Django==4.2.14
+requests==2.31.0
+openai==1.42.0
+djangorestframework
+lxml_html_clean==0.2.2
+requests-html==0.10.0
+
